@@ -7,3 +7,4 @@ Tổng hợp bài tập và mindmap của Session 6. Mỗi bài là một thư m
 - [`bieu-do-doanh-thu-thanh-pho/`](bieu-do-doanh-thu-thanh-pho/) — Fix bug Module "Biểu đồ Doanh thu theo Thành phố"
 - [`gia-chi-tu-khach-san/`](gia-chi-tu-khach-san/) — Tính năng "Giá chỉ từ..." trên danh sách Khách sạn
 - [`truy-quet-tai-khoan-dau-co/`](truy-quet-tai-khoan-dau-co/) — Tool "Truy quét Tài khoản Đầu cơ" (Spam/Fraud Detection)
+- [`khach-san-dat-chuan/`](khach-san-dat-chuan/) — Báo cáo "Khách sạn Đạt Chuẩn" (Tối ưu WHERE vs HAVING)
