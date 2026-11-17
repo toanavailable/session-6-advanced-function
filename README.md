@@ -10,3 +10,4 @@ Tổng hợp bài tập và mindmap của Session 6. Mỗi bài là một thư m
 - [`khach-san-dat-chuan/`](khach-san-dat-chuan/) — Báo cáo "Khách sạn Đạt Chuẩn" (Tối ưu WHERE vs HAVING)
 - [`phong-chet-dead-inventory/`](phong-chet-dead-inventory/) — Cảnh báo "Phòng Chết" (Dead Inventory)
 - [`top-user-vip-hang-phong/`](top-user-vip-hang-phong/) — Module "Top User VIP Theo Từng Hạng Phòng"
+- [`join-inner-left-right/`](join-inner-left-right/) — Truy vấn Dữ liệu từ nhiều bảng với INNER, LEFT và RIGHT JOIN
