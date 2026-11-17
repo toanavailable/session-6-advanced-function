@@ -4,5 +4,4 @@ Tổng hợp bài tập và mindmap của Session 6. Mỗi bài là một thư m
 
 ## Danh sách bài
 
-<!-- Thêm mỗi bài một dòng, ví dụ: -->
-<!-- - [`mind-map6/`](mind-map6/) — Hệ thống kiến thức Mindmap: ... -->
+- [`bieu-do-doanh-thu-thanh-pho/`](bieu-do-doanh-thu-thanh-pho/) — Fix bug Module "Biểu đồ Doanh thu theo Thành phố"
